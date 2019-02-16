@@ -20,7 +20,7 @@ h1,	h2,	h3,	h4	{
 }
 
 .date {
-  color:##cfe5ed;
+  color: #cfe5ed;
 }
 
 .save {
@@ -32,7 +32,7 @@ h1,	h2,	h3,	h4	{
 }
 
 .top-menu,	.top-menu:hover,	.top-menu:visited	{
-  color:	##f3e7f0;
+  color:	#e0a6a1;
   float:	right;
   font-size:	26pt;
   margin-right:	20px;
@@ -43,5 +43,5 @@ h1,	h2,	h3,	h4	{
 }
 
 .post h1 a, .post h1 a:visited {
-  color: ##e0a6a1;
+  color: #e0a6a1;
 }
