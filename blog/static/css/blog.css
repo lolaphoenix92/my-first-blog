@@ -1,20 +1,12 @@
-h1 a {
-  color: #FCA205;
-  font-family: 'Lobster';
-}
-body {
-  padding-left: 15px;
-}
-
 .page-header {
-  background-color: #ff9400;
+  background-color: #f6f5bc;
   margin-top: 0;
   padding: 20px 20px 20px 40px;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1:active
   {
-    color: #ffffff;
+    color: #e0a6a1;
     font-size:36pt;
     text-decoration: none;
   }
@@ -24,11 +16,11 @@ body {
 }
 
 h1,	h2,	h3,	h4	{
-  font-family:	'Lobster',	cursive;
+  font-family:	'Roboto Condensed',	sans-serif;
 }
 
 .date {
-  color:#828282;
+  color:##cfe5ed;
 }
 
 .save {
@@ -40,7 +32,7 @@ h1,	h2,	h3,	h4	{
 }
 
 .top-menu,	.top-menu:hover,	.top-menu:visited	{
-  color:	#ffffff;
+  color:	##f3e7f0;
   float:	right;
   font-size:	26pt;
   margin-right:	20px;
@@ -51,5 +43,5 @@ h1,	h2,	h3,	h4	{
 }
 
 .post h1 a, .post h1 a:visited {
-  color: #000000;
+  color: ##fad399;
 }
